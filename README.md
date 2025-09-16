@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Uday!
 👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech<br/>
-👩🏻‍🎓 Studied Engineering Physics and Electronics at Delhi College of Engineering, New Delhi
+👩🏻‍🎓 Studied Engineering Physics and Electronics at Delhi College of Engineering, New Delhi<br/>
 ⚙️ Making n8n Agents for automation, tech, and productivity on [Mad Apes](https://madapes.agency/)<br/>
 🌷 #ContributingandDesign in my [Mad Apes Garden](https://www.notion.so/MAD-APES-AGENCY-1fccce3618dc8049bc23db09144ca3e4) <br/>
 💭 Currently learning about Agentic AI and building Automations
