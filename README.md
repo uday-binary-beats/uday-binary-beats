@@ -8,7 +8,11 @@
 💭 Currently learning about Agentic AI and building Automations
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
-[![Uday's GitHub stats](https://github-readme-stats.vercel.app/api?username=udayjordan)](https://github.com/udayjordan/github-readme-stats)
+[![Uday's GitHub stats](https://github-readme-stats.vercel.app/api?username=udayjordan)](https://github.com/udayjordan/github-readme-stats)</br>
+
+#🎵 Binary Beats - Where Code Meets Music
+[![Spotify](https://img.shields.io/badge/🎧%20My%20Binary%20Beats-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/t04ueybucc4lk5vo2cq9ga1s0)
+
 
 # 💻 Tech Stack
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
