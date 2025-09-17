@@ -10,8 +10,8 @@
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
 ![](https://github-readme-stats.vercel.app/api?username=udayjordan&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=udayjordan&theme=gruvbox&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=udayjordan&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://nirzak-streak-stats.vercel.app/?user=uday-binary-beats&theme=gruvbox&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=uday-binary-beats&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
 #🎵 Binary Beats - Where Code Meets Music</br>
