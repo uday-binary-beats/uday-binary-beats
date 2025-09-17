@@ -42,56 +42,15 @@
 
 
 
-<p align="center">
-🔱 &nbsp;Pet Projects &nbsp;
-</p>
-
-<div align="center">
-
-| <img alt="Vortex in a Glass Sphere" width="100%" src="https://github.com/user-attachments/assets/90100c97-84f5-4c0b-baae-f50ecac2c4a3"  /> | <img alt="God Grass" width="100%" src="https://github.com/user-attachments/assets/69e309a7-7f5a-44a9-b0fd-4754cf6d494a"  /> |
-|:-----:|:-----:|
 
 
-</div>
-
-<div align="center">
-
-| <img alt="Image to Particles" width="100%" src="https://github.com/user-attachments/assets/59c1c4ce-5922-4051-ab96-4603101868ea"  /> | <img alt="Auroras" width="70%" src="https://github.com/user-attachments/assets/cfd352b2-49b1-4bba-ac77-e120213b0716"  /> | <img alt="Chain with LightBulb" width="100%" src="https://github.com/user-attachments/assets/aef2af78-8e28-46ea-905e-4dbabb55a629"  /> |
-|:-----:|:-----:|:-----:|
 
 
-</div>
-
-<div align="center">
-  
-| <img alt="SDF Shader Rope" width="97%" src="https://github.com/user-attachments/assets/8aed522a-384c-4397-b7d4-b759c756f071"  /> | <img alt="Black Hole (Swirl)" width="97%" src="https://github.com/user-attachments/assets/839bd061-9ce6-4971-a181-cc99a5603715"  /> | <img alt="Morph Particles" width="100%" src="https://github.com/MisterPrada/misterprada/assets/8146111/a9895a5b-9ad3-4037-90a0-aba6c5dbcefb"  /> |
-|:-----:|:-----:|:-----:|
 
 
-</div>
-
-<div align="center">
-  
-| <img alt="Morph Particles" src="https://github.com/MisterPrada/misterprada/assets/8146111/460b6e93-fb3d-417d-be59-2f37c273f4c9"  /> | <img width="77%" alt="Black Hole" src="https://github.com/MisterPrada/misterprada/assets/8146111/21b58241-42f2-4b8c-8a58-2669d552fc45"  /> | <img width="77%" alt="Sun Particles" src="https://github.com/MisterPrada/misterprada/assets/8146111/5ef71bc1-8810-4c0d-bd73-d354640e38d9"  /> |
-|:-----:|:------:|:-----:|
 
 
-</div>
 
-<div align="center">
-
-| <img alt="Portal" src="https://github.com/MisterPrada/misterprada/assets/8146111/eb445650-c662-412f-8cf5-662b76c27057"  /> | <img alt="Galaxy" src="https://github.com/MisterPrada/misterprada/assets/8146111/64cf718c-e1ae-44a6-bd6c-69ca2b55ac11"  /> | <img alt="Itachi" src="https://github.com/MisterPrada/misterprada/assets/8146111/445f5d11-b672-46f5-a0dd-7635b4787efc"  /> |
-|:-----:|:---------:|:------:|
-
-
-</div>
-
-<div align="center">
-
-  | <img alt="Predator" width="77%" src="https://github.com/MisterPrada/misterprada/assets/8146111/e4021b6c-28e3-4f21-8227-1f9617a17945"  /> | <img alt="Sound Orb" src="https://github.com/MisterPrada/misterprada/assets/8146111/68821637-ccd9-480f-bb76-5834c3a8586d"  /> | <img src="https://github.com/MisterPrada/misterprada/assets/8146111/a2d05e85-469b-4422-87a6-959fba81f955"> |
-  |:-----:|:------:|:-----:|
-
-</div>
 
 
 
